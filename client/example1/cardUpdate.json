@@ -1,4 +1,5 @@
 {
+	"publisher" : "message-publisher",
 	"processVersion" : "1",
 	"process"  :"defaultProcess",
 	"processInstanceId" : "hello-world-1",

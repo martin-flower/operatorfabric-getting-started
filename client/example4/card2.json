@@ -1,4 +1,5 @@
 {
+	"publisher" : "scheduledMaintenance-publisher",
 	"processVersion" : "1",
 	"process"  :"maintenanceProcess",
 	"processInstanceId" : "maintenance-2",

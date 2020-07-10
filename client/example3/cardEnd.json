@@ -1,5 +1,6 @@
 
 {
+	"publisher" : "alert-publisher",
 	"processVersion" : "1",
 	"process"  :"criticalSituation",
 	"processInstanceId" : "alert1",
