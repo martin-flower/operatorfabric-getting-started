@@ -10,6 +10,13 @@
 				"templateName" : "template",
 				"styles" : [ "style" ]
 			}]
+		},
+		"messageState2" : {
+			"details" : [{
+				"title" : { "key" : "defaultProcess.title"},
+				"templateName" : "template",
+				"styles" : [ "style" ]
+			}]
 		}
 	}
 }
